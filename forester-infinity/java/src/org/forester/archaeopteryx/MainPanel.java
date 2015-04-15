@@ -180,6 +180,17 @@ public class MainPanel extends JPanel implements ComponentListener {
         }
     }
 
+    public void closeAllPanels() {
+    	while(getTabbedPane().getTabCount() > 0){
+            final int index = getCurrentTabIndex();
+            getTabbedPane().remove( index );
+            getTreePanels().remove( index );
+            _treegraphic_scroll_panes.remove( index );
+            _treegraphic_scroll_pane_panels.remove( index );
+            getControlPanel().phylogenyRemoved( index );    		
+    	}
+    }
+
     @Override
     public void componentHidden( final ComponentEvent e ) {
         // Do nothing.

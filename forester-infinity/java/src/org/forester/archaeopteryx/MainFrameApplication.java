@@ -480,6 +480,7 @@ public final class MainFrameApplication extends MainFrame {
     
     public void addPhylogenies( Phylogeny[] newphys ){
         if ( ( newphys != null ) && ( newphys.length > 0 ) ) {
+        	_mainpanel.closeAllPanels();
             AptxUtil.addPhylogeniesToTabs( newphys, "", null, _configuration, _mainpanel );
             validate();
             getMainPanel().getControlPanel().showWholeAll();

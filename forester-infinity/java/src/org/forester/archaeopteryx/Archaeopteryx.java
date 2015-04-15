@@ -41,7 +41,8 @@ import java.net.URL;
 import java.util.UUID;
 import java.util.Date;
 import java.io.FileOutputStream;
-
+import java.security.MessageDigest;
+import java.util.Scanner;
 
 //
 // java -javaagent:shiftone-jrat.jar -cp
@@ -172,14 +173,24 @@ public final class Archaeopteryx {
 
         	while(true){
         		Thread.sleep(4000);
-    	    	System.err.println("re-opening URL for " + monitor_url );
+//    	    	System.err.println("re-opening URL for " + monitor_url );
     			URL website = new URL(monitor_url);
     			ReadableByteChannel rbc = Channels.newChannel(website.openStream());
+    			String old_content = new Scanner(new File(args[ filename_index ])).useDelimiter("\\Z").next();
     			String tmpfilename = args[ filename_index ];
     			FileOutputStream fos = new FileOutputStream(tmpfilename);
     			fos.getChannel().transferFrom(rbc, 0, 1 << 24);
     			f = new File( tmpfilename );
+    			String new_content = new Scanner(new File(args[ filename_index ])).useDelimiter("\\Z").next();
     			
+    			if(old_content.equals(new_content)){
+ //   				System.err.println("no change\n");
+    				continue;
+    			}else{
+/*    				System.err.println("Old was:\n" + old_content);
+    				System.err.println("New is:\n" + new_content);
+*/    			}
+
     			// parse the new phylogeny
                 boolean nhx_or_nexus = false;
                 final PhylogenyParser p = ParserUtils.createParserDependingOnFileType( f, conf
