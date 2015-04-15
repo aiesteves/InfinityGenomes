@@ -10,8 +10,10 @@ This project is part of the Australian MIcrobial GenOmics Symposium (AMIGOS) Net
 - Stephen Watts, University of Melbourne
 - Jane Hawkey, University of Melbourne
 - Sebastian Duchene, University of Sydney
+- Brian Forde, University of Queensland
 - Ana Esteves, The University of New South Wales
-- missing one here!
+ 
+
 
 
 
