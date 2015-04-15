@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/16/forester/data/surfacing
+END
+gene_ontology.1_2.obo_2009_04_23
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/16/forester/data/surfacing/gene_ontology.1_2.obo_2009_04_23
+END
+pfam2go_2009_04_23
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/16/forester/data/surfacing/pfam2go_2009_04_23
+END
+genome_locations.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/16/forester/data/surfacing/genome_locations.txt
+END
+viral_domains.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/16/forester/data/surfacing/viral_domains.txt
+END

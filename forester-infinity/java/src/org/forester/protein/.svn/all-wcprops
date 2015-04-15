@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/435/forester/java/src/org/forester/protein
+END
+Domain.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/435/forester/java/src/org/forester/protein/Domain.java
+END
+BasicDomain.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/435/forester/java/src/org/forester/protein/BasicDomain.java
+END
+ProteinId.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/431/forester/java/src/org/forester/protein/ProteinId.java
+END
+BinaryDomainCombination.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/431/forester/java/src/org/forester/protein/BinaryDomainCombination.java
+END
+Protein.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/431/forester/java/src/org/forester/protein/Protein.java
+END
+BasicProtein.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/431/forester/java/src/org/forester/protein/BasicProtein.java
+END
+DomainId.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/431/forester/java/src/org/forester/protein/DomainId.java
+END

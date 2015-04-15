@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats
+END
+formattest.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/formattest.pl
+END
+stockholm.1
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/stockholm.1
+END
+stockholm.2
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/stockholm.2
+END
+genbank
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/genbank
+END
+phylip
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/phylip
+END
+clustal
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/clustal
+END
+swissprot
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/swissprot
+END
+embl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/embl
+END
+a2m
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/a2m
+END
+selex.1
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/selex.1
+END
+selex.2
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/selex.2
+END
+msf
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/msf
+END
+regression.dat
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/regression.dat
+END
+gcgdata.1
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/gcgdata.1
+END
+pir
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/pir
+END
+gcgdata.2
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/gcgdata.2
+END
+fasta
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/fasta
+END
+gcg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Formats/gcg
+END

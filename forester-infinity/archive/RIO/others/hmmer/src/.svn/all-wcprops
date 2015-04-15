@@ -1,0 +1,257 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src
+END
+pvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/pvm.c
+END
+modelmakers.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/modelmakers.c
+END
+states.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/states.c
+END
+hmmsearch-pvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/hmmsearch-pvm.c
+END
+postprob.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/postprob.c
+END
+hmmio.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/hmmio.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/config.h
+END
+postprob.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/postprob.h
+END
+masks.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/masks.c
+END
+plan7.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/plan7.c
+END
+core_algorithms.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/core_algorithms.c
+END
+hmmconvert.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/hmmconvert.c
+END
+funcs.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/funcs.h
+END
+plan9.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/plan9.c
+END
+hmmpfam.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/hmmpfam.c
+END
+hmmcalibrate.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/hmmcalibrate.c
+END
+globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/globals.h
+END
+tophits.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/tophits.c
+END
+camJul97.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/camJul97.c
+END
+hmmalign.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/hmmalign.c
+END
+histogram.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/histogram.c
+END
+trace.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/trace.c
+END
+hmmbuild.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/hmmbuild.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/Makefile.in
+END
+hmmpostal.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/hmmpostal.c
+END
+display.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/display.c
+END
+hmmsearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/hmmsearch.c
+END
+hmmindex.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/hmmindex.c
+END
+structs.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/structs.h
+END
+alphabet.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/alphabet.c
+END
+weetest.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/weetest.c
+END
+hmmpfam-pvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/hmmpfam-pvm.c
+END
+mathsupport.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/mathsupport.c
+END
+debug.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/debug.c
+END
+hmmcalibrate-pvm.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/hmmcalibrate-pvm.c
+END
+threads.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/threads.c
+END
+prior.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/prior.c
+END
+hmmfetch.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/hmmfetch.c
+END
+misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/misc.c
+END
+emulation.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/emulation.c
+END
+emit.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/emit.c
+END
+hmmemit.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/src/hmmemit.c
+END

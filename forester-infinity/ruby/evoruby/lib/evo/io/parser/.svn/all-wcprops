@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/758/forester/ruby/evoruby/lib/evo/io/parser
+END
+msa_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13/forester/ruby/evoruby/lib/evo/io/parser/msa_parser.rb
+END
+sp_taxonomy_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/13/forester/ruby/evoruby/lib/evo/io/parser/sp_taxonomy_parser.rb
+END
+ncbi_tseq_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/13/forester/ruby/evoruby/lib/evo/io/parser/ncbi_tseq_parser.rb
+END
+basic_table_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/13/forester/ruby/evoruby/lib/evo/io/parser/basic_table_parser.rb
+END
+hmmscan_domain_extractor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/758/forester/ruby/evoruby/lib/evo/io/parser/hmmscan_domain_extractor.rb
+END
+hmmsearch_domain_extractor.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/737/forester/ruby/evoruby/lib/evo/io/parser/hmmsearch_domain_extractor.rb
+END
+general_msa_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/13/forester/ruby/evoruby/lib/evo/io/parser/general_msa_parser.rb
+END
+fasta_parser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/13/forester/ruby/evoruby/lib/evo/io/parser/fasta_parser.rb
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/577/forester/java/src/org/forester/ws/seqdb
+END
+EbiDbEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/564/forester/java/src/org/forester/ws/seqdb/EbiDbEntry.java
+END
+SequenceDbWsTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/577/forester/java/src/org/forester/ws/seqdb/SequenceDbWsTools.java
+END
+UniProtTaxonomy.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/507/forester/java/src/org/forester/ws/seqdb/UniProtTaxonomy.java
+END
+SequenceDatabaseEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/564/forester/java/src/org/forester/ws/seqdb/SequenceDatabaseEntry.java
+END
+UniProtEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/507/forester/java/src/org/forester/ws/seqdb/UniProtEntry.java
+END
+DatabaseTools.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/564/forester/java/src/org/forester/ws/seqdb/DatabaseTools.java
+END

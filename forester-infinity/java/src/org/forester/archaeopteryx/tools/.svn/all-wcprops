@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/679/forester/java/src/org/forester/archaeopteryx/tools
+END
+ProcessRunning.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/464/forester/java/src/org/forester/archaeopteryx/tools/ProcessRunning.java
+END
+GoAnnotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/465/forester/java/src/org/forester/archaeopteryx/tools/GoAnnotation.java
+END
+Blast.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/417/forester/java/src/org/forester/archaeopteryx/tools/Blast.java
+END
+SequenceDataRetriver.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/564/forester/java/src/org/forester/archaeopteryx/tools/SequenceDataRetriver.java
+END
+RunnableProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/564/forester/java/src/org/forester/archaeopteryx/tools/RunnableProcess.java
+END
+PhylogeneticInferenceOptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/159/forester/java/src/org/forester/archaeopteryx/tools/PhylogeneticInferenceOptions.java
+END
+PhylogeneticInferrer.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/679/forester/java/src/org/forester/archaeopteryx/tools/PhylogeneticInferrer.java
+END
+ProcessPool.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/464/forester/java/src/org/forester/archaeopteryx/tools/ProcessPool.java
+END
+AncestralTaxonomyInferrer.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/509/forester/java/src/org/forester/archaeopteryx/tools/AncestralTaxonomyInferrer.java
+END
+InferenceManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/679/forester/java/src/org/forester/archaeopteryx/tools/InferenceManager.java
+END
+ImageLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/359/forester/java/src/org/forester/archaeopteryx/tools/ImageLoader.java
+END
+PhyloInferenceDialog.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/679/forester/java/src/org/forester/archaeopteryx/tools/PhyloInferenceDialog.java
+END

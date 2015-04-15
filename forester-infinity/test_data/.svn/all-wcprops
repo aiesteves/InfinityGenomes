@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/586/forester/test_data
+END
+gsdi_test_species_tree_sn.nh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/586/forester/test_data/gsdi_test_species_tree_sn.nh
+END
+paup_log_test_1
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/forester/test_data/paup_log_test_1
+END
+gsdi_test_species_tree_codes.nh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/586/forester/test_data/gsdi_test_species_tree_codes.nh
+END
+Smith_2011_angiosperms.nh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/446/forester/test_data/Smith_2011_angiosperms.nh
+END
+ncbi_sn.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/358/forester/test_data/ncbi_sn.fasta
+END
+phyloxml_distribution.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/forester/test_data/phyloxml_distribution.xml
+END
+msa_1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/forester/test_data/msa_1.txt
+END
+gsdi_test_gene_tree_codes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/586/forester/test_data/gsdi_test_gene_tree_codes.xml
+END
+gsdi_test_species_tree_sn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/586/forester/test_data/gsdi_test_species_tree_sn.xml
+END
+phyloxml_test_t1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/forester/test_data/phyloxml_test_t1.xml
+END
+msa_2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/forester/test_data/msa_2.txt
+END
+phyloxml_test_t2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/forester/test_data/phyloxml_test_t2.xml
+END
+msa_3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/forester/test_data/msa_3.txt
+END
+tol_4567.tol
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/forester/test_data/tol_4567.tol
+END
+phyloxml_test_t3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/580/forester/test_data/phyloxml_test_t3.xml
+END
+phyloxml_test_t4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/forester/test_data/phyloxml_test_t4.xml
+END
+phylogeny27.nhx
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/forester/test_data/phylogeny27.nhx
+END
+phylogeny28.nhx
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/forester/test_data/phylogeny28.nhx
+END
+tol_143.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/584/forester/test_data/tol_143.xml
+END
+species_tree_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/15/forester/test_data/species_tree_1.xml
+END
+gsdi_test_gene_tree_sn_wnt.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/586/forester/test_data/gsdi_test_gene_tree_sn_wnt.xml
+END
+wnt_psiblast_tree_seq_ids.nwk
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/552/forester/test_data/wnt_psiblast_tree_seq_ids.nwk
+END
+Bininda-emonds_2007_mammals.nex
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/446/forester/test_data/Bininda-emonds_2007_mammals.nex
+END
+ncbi.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/forester/test_data/ncbi.fasta
+END
+bcl.aln
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/15/forester/test_data/bcl.aln
+END
+pfam_to_go_test
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/forester/test_data/pfam_to_go_test
+END
+fasta_0.fasta
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/forester/test_data/fasta_0.fasta
+END
+tol_2.tol
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/forester/test_data/tol_2.tol
+END
+gsdi_test_species_tree_ids.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/586/forester/test_data/gsdi_test_species_tree_ids.xml
+END
+special_characters.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/forester/test_data/special_characters.xml
+END
+gsdi_test_species_tree.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/586/forester/test_data/gsdi_test_species_tree.xml
+END
+hmmscan30b3_output_1
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/forester/test_data/hmmscan30b3_output_1
+END
+obo_test
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/15/forester/test_data/obo_test
+END
+tol_5.tol
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/forester/test_data/tol_5.tol
+END
+hmmscan30b3_output_2
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/forester/test_data/hmmscan30b3_output_2
+END
+Westneat_Lundberg_BigFishTree.nex
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/446/forester/test_data/Westneat_Lundberg_BigFishTree.nex
+END
+gene_ontology_edit.obo
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/15/forester/test_data/gene_ontology_edit.obo
+END
+gsdi_test_species_tree_codes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/586/forester/test_data/gsdi_test_species_tree_codes.xml
+END
+wnt_gene_tree_from_ncbi_blast.nh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/498/forester/test_data/wnt_gene_tree_from_ncbi_blast.nh
+END
+species_tree_1_unresolved.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/forester/test_data/species_tree_1_unresolved.xml
+END
+gsdi_test_gene_tree_ids.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/586/forester/test_data/gsdi_test_gene_tree_ids.xml
+END
+gsdi_test_gene_tree_sn.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/586/forester/test_data/gsdi_test_gene_tree_sn.xml
+END
+basics.nh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/forester/test_data/basics.nh
+END
+nexus_test_1.nex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/forester/test_data/nexus_test_1.nex
+END
+nexus_test_2.nex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/forester/test_data/nexus_test_2.nex
+END
+nexus_test_3.nex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/forester/test_data/nexus_test_3.nex
+END
+gene_tree_1.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/forester/test_data/gene_tree_1.xml
+END
+tol_2484.tol
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/15/forester/test_data/tol_2484.tol
+END
+gene_tree_2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/forester/test_data/gene_tree_2.xml
+END
+nexus_test_4.nex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/forester/test_data/nexus_test_4.nex
+END
+nexus_test_5.nex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/forester/test_data/nexus_test_5.nex
+END
+nexus_test_6.nex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/forester/test_data/nexus_test_6.nex
+END
+T4816.nex
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/15/forester/test_data/T4816.nex
+END
+nexus_test_7.nex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/forester/test_data/nexus_test_7.nex
+END
+nexus_test_8.nex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/forester/test_data/nexus_test_8.nex
+END
+nexus_test_9.nex
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/15/forester/test_data/nexus_test_9.nex
+END
+hmmpfam_output_short
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/15/forester/test_data/hmmpfam_output_short
+END
+phyloxml_test_atv.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/15/forester/test_data/phyloxml_test_atv.xml
+END
+gene_tree_tax_code_4.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/568/forester/test_data/gene_tree_tax_code_4.xml
+END
+hmmpfam_output2
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/forester/test_data/hmmpfam_output2
+END
+hmmpfam_output3
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/15/forester/test_data/hmmpfam_output3
+END
+midpoint_rooting_neg_bl.nh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15/forester/test_data/midpoint_rooting_neg_bl.nh
+END
+tol_16299.tol
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/15/forester/test_data/tol_16299.tol
+END
+hmmpfam_output
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/15/forester/test_data/hmmpfam_output
+END
+quotes.nhx
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/15/forester/test_data/quotes.nhx
+END

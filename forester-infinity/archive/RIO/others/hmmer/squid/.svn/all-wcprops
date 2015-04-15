@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid
+END
+seqsplit_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/seqsplit_main.c
+END
+stockholm.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/stockholm.h
+END
+sqio.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/sqio.c
+END
+compalign_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/compalign_main.c
+END
+sfetch_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/sfetch_main.c
+END
+dayhoff.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/dayhoff.c
+END
+seqstat_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/seqstat_main.c
+END
+weight_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/weight_main.c
+END
+translate.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/translate.c
+END
+translate_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/translate_main.c
+END
+rk.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/rk.c
+END
+revcomp_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/revcomp_main.c
+END
+sre_string.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/sre_string.c
+END
+selex.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/selex.c
+END
+rk.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/rk.h
+END
+msf.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/msf.c
+END
+sqfuncs.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/sqfuncs.h
+END
+sre_ctype.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/sre_ctype.c
+END
+squidcore.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/squidcore.c
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/configure
+END
+getopt.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/getopt.c
+END
+sre_math.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/sre_math.c
+END
+types.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/types.c
+END
+alistat_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/alistat_main.c
+END
+clustal.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/clustal.c
+END
+00README
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/00README
+END
+a2m.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/a2m.c
+END
+cluster.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/cluster.c
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/INSTALL
+END
+weight.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/weight.c
+END
+eps.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/eps.c
+END
+gsi64.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/gsi64.c
+END
+sqerror.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/sqerror.c
+END
+squid.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/squid.h.in
+END
+shuffle_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/shuffle_main.c
+END
+iupac.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/iupac.c
+END
+gsi64.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/gsi64.h
+END
+aligneval.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/aligneval.c
+END
+hsregex.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/hsregex.c
+END
+squidconf.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/squidconf.h.in
+END
+phylip.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/phylip.c
+END
+seqencode.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/seqencode.c
+END
+sreformat_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/sreformat_main.c
+END
+compstruct_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/compstruct_main.c
+END
+gki.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/gki.c
+END
+revcomp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/revcomp.c
+END
+stopwatch.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/stopwatch.c
+END
+gki.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/gki.h
+END
+file.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/file.c
+END
+msa.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/msa.c
+END
+stopwatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/stopwatch.h
+END
+gsi.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/gsi.c
+END
+alignio.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/alignio.c
+END
+test_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/test_main.c
+END
+msa.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/msa.h
+END
+gsi.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/gsi.h
+END
+shuffle.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/shuffle.c
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/install-sh
+END
+sindex_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/sindex_main.c
+END
+afetch_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/afetch_main.c
+END
+ssi.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/ssi.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/Makefile.in
+END
+stockholm.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/stockholm.c
+END
+ssi.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/ssi.h
+END
+stack.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/squid/stack.c
+END

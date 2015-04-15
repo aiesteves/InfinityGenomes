@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite
+END
+fn3.seed
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/fn3.seed
+END
+Optiontests.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/Optiontests.pl
+END
+fn3.hmm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/fn3.hmm
+END
+Optiontests.pam
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/Optiontests.pam
+END
+parsingviterbi_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/parsingviterbi_test.c
+END
+tophits_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/tophits_test.c
+END
+titin.fa
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/titin.fa
+END
+viterbi_exercise.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/viterbi_exercise.c
+END
+trace_test.hmm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/trace_test.hmm
+END
+trace_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/trace_test.c
+END
+Optiontests.nslx
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/Optiontests.nslx
+END
+Optiontests.fa
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/Optiontests.fa
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/Makefile.in
+END
+weeviterbi_test.hmm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/weeviterbi_test.hmm
+END
+trace_test.seq
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/trace_test.seq
+END
+fitting_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/fitting_test.c
+END
+Optiontests.pri
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/Optiontests.pri
+END
+alignalign_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/alignalign_test.c
+END
+weeviterbi_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/weeviterbi_test.c
+END
+weeviterbi_test.seq
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/weeviterbi_test.seq
+END
+fn3-bin
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/fn3-bin
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/README
+END
+Optiontests.nfa
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/Optiontests.nfa
+END
+masks_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/masks_test.c
+END
+evd_test.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/evd_test.c
+END
+Optiontests.slx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/Optiontests.slx
+END
+trace_test.slx
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/trace_test.slx
+END
+Exercises.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/Exercises.sh
+END
+fn3-bin-swap
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/17/forester/archive/RIO/others/hmmer/testsuite/fn3-bin-swap
+END

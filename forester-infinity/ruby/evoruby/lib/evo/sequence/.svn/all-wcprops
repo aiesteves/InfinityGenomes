@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/690/forester/ruby/evoruby/lib/evo/sequence
+END
+protein_domain.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/13/forester/ruby/evoruby/lib/evo/sequence/protein_domain.rb
+END
+domain_structure.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/13/forester/ruby/evoruby/lib/evo/sequence/domain_structure.rb
+END
+sequence.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/690/forester/ruby/evoruby/lib/evo/sequence/sequence.rb
+END

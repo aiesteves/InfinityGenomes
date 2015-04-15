@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/511/forester/ruby/scripts
+END
+rb_dir_x.rb
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/13/forester/ruby/scripts/rb_dir_x.rb
+END
+pfam2go_reformat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13/forester/ruby/scripts/pfam2go_reformat.rb
+END
+rb_dir_qsub.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/13/forester/ruby/scripts/rb_dir_qsub.rb
+END
+parameters.rb_dir_qsub
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/13/forester/ruby/scripts/parameters.rb_dir_qsub
+END
+hmm_split.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/13/forester/ruby/scripts/hmm_split.rb
+END
+rb_qsub.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/13/forester/ruby/scripts/rb_qsub.rb
+END
+ensembl_ftp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/357/forester/ruby/scripts/ensembl_ftp.rb
+END
+mv_slinks.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/385/forester/ruby/scripts/mv_slinks.rb
+END
+pfam_to_scop.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/13/forester/ruby/scripts/pfam_to_scop.rb
+END
+delete_ext_nodes.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/13/forester/ruby/scripts/delete_ext_nodes.rb
+END
+replace.rb
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/13/forester/ruby/scripts/replace.rb
+END
+scoptastic.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/13/forester/ruby/scripts/scoptastic.rb
+END
+do_something.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/392/forester/ruby/scripts/do_something.rb
+END
+pfam_summarize.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13/forester/ruby/scripts/pfam_summarize.rb
+END
+preprocess.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/408/forester/ruby/scripts/preprocess.rb
+END
+replace_id.rb
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/13/forester/ruby/scripts/replace_id.rb
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/13/forester/ruby/evoruby/files/test
+END
+ncbi_tseq.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/13/forester/ruby/evoruby/files/test/ncbi_tseq.xml
+END
+general_msa_file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13/forester/ruby/evoruby/files/test/general_msa_file.txt
+END
+fasta_file.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/13/forester/ruby/evoruby/files/test/fasta_file.txt
+END

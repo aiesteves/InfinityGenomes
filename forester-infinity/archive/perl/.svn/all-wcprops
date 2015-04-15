@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/151/forester/archive/perl
+END
+rio.pl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/17/forester/archive/perl/rio.pl
+END
+forester.pm
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/151/forester/archive/perl/forester.pm
+END
+xt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/17/forester/archive/perl/xt.pl
+END
+pfam2slx.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/17/forester/archive/perl/pfam2slx.pl
+END
+makeTree.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/17/forester/archive/perl/makeTree.pl
+END
+rio_slave_driver.pl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/17/forester/archive/perl/rio_slave_driver.pl
+END
+rio_module.pm
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/17/forester/archive/perl/rio_module.pm
+END
+file_proc.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/17/forester/archive/perl/file_proc.pl
+END
+gs_aa_extract.pl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/17/forester/archive/perl/gs_aa_extract.pl
+END
+multifetch.pl
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/17/forester/archive/perl/multifetch.pl
+END
+pf_cutoff_extract.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/forester/archive/perl/pf_cutoff_extract.pl
+END
+bootstrap_cz.pl
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/17/forester/archive/perl/bootstrap_cz.pl
+END
+countSpeciesSPTrEMBL.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/17/forester/archive/perl/countSpeciesSPTrEMBL.pl
+END
+bootstrapCounter.pl
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/17/forester/archive/perl/bootstrapCounter.pl
+END
+bootstrapSelector.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/forester/archive/perl/bootstrapSelector.pl
+END
+extractTrembl.pl
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/17/forester/archive/perl/extractTrembl.pl
+END
+pfam2pwd.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/17/forester/archive/perl/pfam2pwd.pl
+END
+mt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/17/forester/archive/perl/mt.pl
+END
+p7extract.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/17/forester/archive/perl/p7extract.pl
+END
+Xrio.pl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/17/forester/archive/perl/Xrio.pl
+END
+rio_slave.pl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/17/forester/archive/perl/rio_slave.pl
+END
+00README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/17/forester/archive/perl/00README
+END
+extractSWISS-PROT.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/forester/archive/perl/extractSWISS-PROT.pl
+END
+queue.pm
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/17/forester/archive/perl/queue.pm
+END
+extractSpecies.pl
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/17/forester/archive/perl/extractSpecies.pl
+END
+phylo_pl.pl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/17/forester/archive/perl/phylo_pl.pl
+END
+nph-riowebserver
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/17/forester/archive/perl/nph-riowebserver
+END

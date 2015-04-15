@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src
+END
+model1.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/model1.c
+END
+model2.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/model2.c
+END
+gamma.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/gamma.c
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/util.h
+END
+sched.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/sched.c
+END
+gamma.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/gamma.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/Makefile.am
+END
+ml1.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/ml1.c
+END
+ml2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/ml2.c
+END
+sched.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/sched.h
+END
+ml3.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/ml3.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/Makefile
+END
+test
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/test
+END
+puzzle.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/puzzle.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/Makefile.in
+END
+test.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/test.in
+END
+outdist
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/outdist
+END
+puzzle1.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/puzzle1.c
+END
+puzzle2.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/puzzle2.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/README
+END
+ml.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/ml.h
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/util.c
+END
+ppuzzle.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/forester/archive/RIO/others/puzzle_dqo/src/ppuzzle.h
+END

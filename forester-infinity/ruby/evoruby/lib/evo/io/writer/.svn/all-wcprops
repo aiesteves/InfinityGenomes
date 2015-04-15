@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/13/forester/ruby/evoruby/lib/evo/io/writer
+END
+fasta_writer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/13/forester/ruby/evoruby/lib/evo/io/writer/fasta_writer.rb
+END
+phylip_sequential_writer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/13/forester/ruby/evoruby/lib/evo/io/writer/phylip_sequential_writer.rb
+END
+msa_writer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/13/forester/ruby/evoruby/lib/evo/io/writer/msa_writer.rb
+END
+nexus_writer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/13/forester/ruby/evoruby/lib/evo/io/writer/nexus_writer.rb
+END

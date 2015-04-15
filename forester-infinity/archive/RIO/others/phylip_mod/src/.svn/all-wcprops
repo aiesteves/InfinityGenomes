@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src
+END
+test_infile_protml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/test_infile_protml
+END
+test_infile_seqbboot
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/test_infile_seqbboot
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/CHANGES
+END
+seq.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/seq.c
+END
+proml.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/proml.c
+END
+test_infile_protmlk
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/test_infile_protmlk
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/Makefile
+END
+seq.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/seq.h
+END
+neighbor.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/neighbor.c
+END
+fitch.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/fitch.c
+END
+test_infile_fitch
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/test_infile_fitch
+END
+cons.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/cons.c
+END
+dist.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/dist.c
+END
+promlk.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/promlk.c
+END
+phylip.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/phylip.c
+END
+cons.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/cons.h
+END
+protdist.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/protdist.c
+END
+dist.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/dist.h
+END
+phylip.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/phylip.h
+END
+protpars.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/protpars.c
+END
+seqboot.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/seqboot.c
+END
+test_infile_protdist
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/test_infile_protdist
+END
+consense.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/consense.c
+END
+test_infile_protpars
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/17/forester/archive/RIO/others/phylip_mod/src/test_infile_protpars
+END
